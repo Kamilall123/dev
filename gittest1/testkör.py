@@ -1,4 +1,4 @@
 #alma
 #körte
 #szilva
-a=1
+a=3
